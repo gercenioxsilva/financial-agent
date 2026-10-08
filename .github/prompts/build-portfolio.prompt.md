@@ -1,0 +1,1 @@
+Build conservative, balanced and growth scenarios from the supplied capital, monthly contribution, horizon, liquidity needs, objective and risk tolerance. Explain assumptions, diversification, risks and hypothetical outcomes. Do not promise returns.

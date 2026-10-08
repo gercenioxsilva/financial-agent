@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+coverage.xml
+htmlcov/
+data/cache/*
+data/snapshots/*
+!data/cache/.gitkeep
+!data/snapshots/.gitkeep

@@ -1,0 +1,1 @@
+Compare current allocation with target allocation. Quantify deviations, risks, concentration and suggested rebalancing scenarios. Consider taxes and transaction costs only when reliable inputs are available.

@@ -1,0 +1,1 @@
+Analyze the portfolio using deterministic calculations. Show allocation, concentration, performance, income, volatility, drawdown, diversification, correlation, currency exposure and relevant risks. Separate facts from interpretation.
